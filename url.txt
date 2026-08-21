@@ -1,1 +1,1 @@
-https://vcr-portion-draw-schemes.trycloudflare.com
+https://api.trycloudflare.com
