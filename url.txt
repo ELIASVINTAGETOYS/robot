@@ -1,1 +1,1 @@
-https://perl-arms-getting-motor.trycloudflare.com
+https://api.trycloudflare.com
