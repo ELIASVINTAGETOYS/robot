@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://symbol-boss-precise-brook.trycloudflare.com
