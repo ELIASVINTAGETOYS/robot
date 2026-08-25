@@ -1,1 +1,1 @@
-https://duck-locks-grows-stable.trycloudflare.com
+https://api.trycloudflare.com
