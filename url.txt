@@ -1,1 +1,1 @@
-https://brown-leader-filled-mind.trycloudflare.com
+https://api.trycloudflare.com
