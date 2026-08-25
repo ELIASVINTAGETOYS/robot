@@ -1,1 +1,1 @@
-https://ali-syndicate-operations-superb.trycloudflare.com
+https://api.trycloudflare.com
