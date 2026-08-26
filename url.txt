@@ -1,1 +1,1 @@
-https://evaluations-crop-mods-trans.trycloudflare.com
+https://api.trycloudflare.com
