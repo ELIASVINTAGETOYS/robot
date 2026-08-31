@@ -1,1 +1,1 @@
-https://curves-hunting-became-month.trycloudflare.com
+https://api.trycloudflare.com
