@@ -1,1 +1,1 @@
-https://doing-gcc-congratulations-removable.trycloudflare.com
+https://api.trycloudflare.com
