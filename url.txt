@@ -1,1 +1,1 @@
-https://davis-drawing-lands-adequate.trycloudflare.com
+https://api.trycloudflare.com
